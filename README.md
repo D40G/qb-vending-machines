@@ -214,7 +214,6 @@ end)
     ["twerks_candy"] = math.random(35, 54),
     ["twix"] = math.random(35, 54),
     
-	```
 
 ## insert into qb-smallresources/config/consumablesdrink
 ```
@@ -230,6 +229,4 @@ end)
     ["coffee"] = math.random(40, 50),
     ["espresso"] = math.random(40, 50),
     ["latte-machiatto"] = math.random(40, 50),
-    
-	```
 	
