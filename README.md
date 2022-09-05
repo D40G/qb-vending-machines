@@ -1,6 +1,8 @@
 # qb-vending-machines
 This is a QB Core made by oosayeroo, but i reworked it with new items and better picture for the items. Hope you like it!
 
+Credit to oosayeroo for providing this script.
+
 ## Dependencies :
 
 QBCore Framework - https://github.com/qbcore-framework/qb-core
