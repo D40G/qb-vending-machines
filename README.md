@@ -5,9 +5,9 @@ This is a QB Core made by oosayeroo, but i reworked it with new items and better
 
 QBCore Framework - https://github.com/qbcore-framework/qb-core
 
-PolyZone - https://github.com/mkafrin/PolyZone
+PolyZone - https://github.com/qbcore-framework/PolyZone
 
-qb-target - https://github.com/BerkieBb/qb-target
+qb-target - https://github.com/qbcore-framework/qb-target
 
 qb-input - https://github.com/qbcore-framework/qb-input
 
