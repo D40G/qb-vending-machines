@@ -16,6 +16,7 @@ Config.FizzyMachineProp = {
 }
 Config.WaterMachineProp = {
     1099892058,
+    -742198632,
 }
 
 --===ITEMS IN EACH MACHINE===-----   ADD WHATEVER YOU WANT
